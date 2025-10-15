@@ -119,7 +119,11 @@ Nulla varius risus sapien, nec fringilla massa facilisis sed. Pellentesque habit
 ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
     
     ![myImage](https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif)
-    
+	
+	<img width="1901" height="700" alt="image" src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" />
+
+	<img style="max-width:100%; height:auto;" src="https://media.giphy.com/media/XRB1uf2F9bGOA/giphy.gif" />
+	
 See more [Markdown Extras - Image Align](https://github.com/fefong/markdown_readme/blob/master/markdown-extras.md#image-align)    
 
 # Style Text
